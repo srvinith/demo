@@ -55,7 +55,7 @@ const SliderSecond = () => {
 
                     >
                         <div className=' mx-3'>
-                            <a className='a-text' href="https://www.sciencedirect.com/science/article/pii/S2352484722017346">
+                            <Link className='a-text' to="https://www.sciencedirect.com/science/article/pii/S2352484722017346">
                                 <Card style={{ width: '18rem' }}>
                                     <Card.Img variant="top" src={b1} />
                                     <Card.Body className='p-3' style={{ backgroundColor: "#68BD45", color: "#fff", fontWeight: "300" }}>
@@ -66,10 +66,10 @@ const SliderSecond = () => {
                                         <p className="buy-btn">Read more</p>
                                     </Card.Body>
                                 </Card>
-                            </a>
+                            </Link>
                         </div>
                         <div className=' mx-3'>
-                            <a className='a-text' href="https://www.nature.com/articles/s41467-024-51554-9">
+                            <Link className='a-text' to="https://www.nature.com/articles/s41467-024-51554-9">
 
                                 <Card style={{ width: '18rem' }}>
                                     <Card.Img variant="top" src={b22} />
@@ -81,10 +81,10 @@ const SliderSecond = () => {
                                         <p className="buy-btn">Read more</p>
                                     </Card.Body>
                                 </Card>
-                            </a>
+                            </Link>
                         </div>
                         <div className=' mx-3'>
-                            <a className='a-text' href="https://spectrum.ieee.org/the-ev-transition-explained-2658463735">
+                            <Link className='a-text' to="https://spectrum.ieee.org/the-ev-transition-explained-2658463735">
 
 
                             <Card style={{ width: '18rem' }}>
@@ -97,11 +97,11 @@ const SliderSecond = () => {
                                     <p className="buy-btn">Read more</p>
                                 </Card.Body>
                             </Card>
-                            </a>
+                            </Link>
                         </div>
 
                         <div className=' mx-3'>
-                            <a className='a-text' href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10762045/">
+                            <Link className='a-text' to="https://pmc.ncbi.nlm.nih.gov/articles/PMC10762045/">
 
 
                             <Card style={{ width: '18rem' }}>
@@ -114,7 +114,7 @@ const SliderSecond = () => {
                                     <p className="buy-btn">Read more</p>
                                 </Card.Body>
                             </Card>
-                            </a>
+                            </Link>
                         </div>
 
 

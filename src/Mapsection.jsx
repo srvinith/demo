@@ -32,7 +32,7 @@ const Mapsection = () => {
                 <span>Mounting - Wall | Pole Mounting</span><br />
                 <span>Warranty - 1 Year</span><br />
                 <span>CMS - Available</span> <br /><br />
-                <a href="tel:+918754729955" className='buy-btn'>Buy Now</a>
+                <Link to="tel:+918754729955" className='buy-btn'>Buy Now</Link>
 
               </div>
             </div>
@@ -60,7 +60,7 @@ const Mapsection = () => {
                 <span>Mounting - Wall | Pole Mounting</span><br />
                 <span>Warranty - 1 Year</span><br />
                 <span>CMS - Available</span> <br /><br />
-                <a href="tel:+918754729955" className='buy-btn'>Buy Now</a>
+                <Link to="tel:+918754729955" className='buy-btn'>Buy Now</Link>
 
               </div>
             </div>
@@ -88,7 +88,7 @@ const Mapsection = () => {
                 <span>Mounting - Wall | Pole Mounting</span><br />
                 <span>Warranty - 1 Year</span><br />
                 <span>CMS - Available</span> <br /><br />
-                <a href="tel:+918754729955" className='buy-btn'>Buy Now</a>
+                <Link to="tel:+918754729955" className='buy-btn'>Buy Now</Link>
 
               </div>
             </div>
@@ -117,7 +117,7 @@ const Mapsection = () => {
                 <span>Mounting - Wall | Pole Mounting</span><br />
                 <span>Warranty - 1 Year</span><br />
                 <span>CMS - Available</span> <br /><br />
-                <a href="tel:+918754729955" className='buy-btn'>Buy Now</a>
+                <Link to="tel:+918754729955" className='buy-btn'>Buy Now</Link>
 
               </div>
             </div>
@@ -145,7 +145,7 @@ const Mapsection = () => {
                 <span>Mounting - Wall | Pole Mounting</span><br />
                 <span>Warranty - 1 Year</span><br />
                 <span>CMS - Available</span> <br /><br />
-                <a href="tel:+918754729955" className='buy-btn'>Buy Now</a>
+                <Link to="tel:+918754729955" className='buy-btn'>Buy Now</Link>
 
               </div>
             </div>
@@ -173,7 +173,7 @@ const Mapsection = () => {
                 <span>Mounting - Wall | Pole Mounting</span><br />
                 <span>Warranty - 1 Year</span><br />
                 <span>CMS - Available</span> <br /><br />
-                <a href="tel:+918754729955" className='buy-btn'>Buy Now</a>
+                <Link to="tel:+918754729955" className='buy-btn'>Buy Now</Link>
               </div>
             </div>
           </div>
@@ -200,7 +200,7 @@ const Mapsection = () => {
                 <span>Mounting - Wall | Pole Mounting</span><br />
                 <span>Warranty - 1 Year</span><br />
                 <span>CMS - Available</span> <br /><br />
-                <a href="tel:+918754729955" className='buy-btn'>Buy Now</a>
+                <Link to="tel:+918754729955" className='buy-btn'>Buy Now</Link>
 
               </div>
             </div>
